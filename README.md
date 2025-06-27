@@ -15,12 +15,14 @@ http://localhost:3001
 ⚙️ Admin dashboard (optional)
 🚀 Tech Stack
 
-Frontend
+**Frontend**
+
 React
 HTML/CSS
 Bootstrap/Tailwind (based on your design)
 
-Backend
+**Backend**
+
 Node.js
 Express.js
 MongoDB with Mongoose
