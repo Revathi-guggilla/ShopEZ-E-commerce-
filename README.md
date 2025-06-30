@@ -40,9 +40,9 @@ Stripe or PayPal (for payments)
 
 **📬 Contact Author:** Revathi Guggilla
 
-Email: revathi.guggilla17@gmail.com
+**Email:** revathi.guggilla17@gmail.com
 
-Student Email : revathiguggilla05@gmail.com
+**Student Email:** revathiguggilla05@gmail.com
 
-GitHub: https://github.com/Revathi-guggilla
+**GitHub: https:** //github.com/Revathi-guggilla
 
