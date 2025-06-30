@@ -44,5 +44,5 @@ Stripe or PayPal (for payments)
 
 **Student Email:** revathiguggilla05@gmail.com
 
-**GitHub: https:** //github.com/Revathi-guggilla
+**GitHub:** https://github.com/Revathi-guggilla
 
