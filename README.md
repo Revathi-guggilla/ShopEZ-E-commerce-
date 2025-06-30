@@ -5,14 +5,22 @@ ShopSmart is a full-stack MERN (MongoDB, Express, React, Node.js) application th
 🔗 Live Link
 http://localhost:3001
 
-📦 Features
+**📦 Features:**
+
 🖼️ Modern UI with responsive design
+
 📦 Product catalog with category filtering
+
 🛒 Shopping cart and quantity management
+
 🔐 User authentication (login/register)
+
 💳 Secure checkout with payment gateway integration
+
 🧾 Order summary and confirmation
+
 ⚙️ Admin dashboard (optional)
+
 🚀 Tech Stack
 
 **Frontend**
