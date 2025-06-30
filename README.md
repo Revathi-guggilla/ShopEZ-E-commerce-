@@ -23,6 +23,7 @@ http://localhost:3001
 
 🚀 Tech Stack
 
+
 **Frontend**
 
 React
@@ -37,7 +38,7 @@ MongoDB with Mongoose
 JWT for authentication
 Stripe or PayPal (for payments)
 
-📬 Contact Author: Revathi Guggilla
+📬 Contact Author:** Revathi Guggilla
 
 Email: revathi.guggilla17@gmail.com
 
